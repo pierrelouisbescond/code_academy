@@ -3,20 +3,20 @@ J'ai créé ces 3 notebooks pendant le premier confinement pour que mes enfants 
 
 Voici le contenu des notebooks:
 
-*Notebook #1*
+*[Notebook #1](https://github.com/pierrelouisbescond/code_academy/blob/main/Code_Academy_1.ipynb)*
 * La fonction **print**
 * Les **variables**
 * La fonction **input**
 * Exercice final 🏆
 
-*Notebook #2*
+*[Notebook #2](https://github.com/pierrelouisbescond/code_academy/blob/main/Code_Academy_2.ipynb)*
 * Les **listes**
 * Les **boucles**
 * La **combinaison de listes et boucles** avec la fonction **zip**
 * Exercice final 🏆
 * Défi Expert 🥇
 
-*Notebook #3*
+*[Notebook #3](https://github.com/pierrelouisbescond/code_academy/blob/main/Code_Academy_3.ipynb)*
 * Les **fonctions**
 * Exercice final 🏆
 
